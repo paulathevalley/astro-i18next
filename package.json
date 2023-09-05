@@ -67,7 +67,7 @@
   },
   "homepage": "https://astro-i18next.yassinedoghri.com/",
   "peerDependencies": {
-    "astro": ">=1.0.0"
+    "astro": ">=3.0.0"
   },
   "dependencies": {
     "@proload/core": "^0.3.3",
@@ -92,7 +92,7 @@
     "@typescript-eslint/parser": "^5.54.0",
     "@vitest/coverage-c8": "^0.29.2",
     "all-contributors-cli": "^6.24.0",
-    "astro": "2.0.17",
+    "astro": "3.0.8",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "esbuild-plugin-fileloc": "^0.0.6",
